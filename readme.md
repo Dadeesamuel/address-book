@@ -6,6 +6,14 @@ The address book is a site where user can add there name, phone number and email
 
 [click](https://dadeesamuel.github.io/adress-book) to visit our store.
 
+## TABLE OF CONTENT
+
+* [HOME](index.html)
+
+* [SCRIPTS](scripts.js)
+
+* [css](style.css)
+
 ## BUILT WITH
 
 * Javascipt
@@ -47,6 +55,6 @@ SOFTWARE.
 
 Samuel- 08132652308
 
-Project link- <https://dadeesamuel.github.io/online-store>
+Project link- <https://dadeesamuel.github.io/address-book>
 
 github username- Dadeesamuel
